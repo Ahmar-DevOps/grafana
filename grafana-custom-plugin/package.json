@@ -1,5 +1,5 @@
 {
-  "name": "grafana-custom-plugin",
+  "name": "customplugin",
   "version": "1.0.0",
   "description": "json custom plugin",
   "scripts": {
