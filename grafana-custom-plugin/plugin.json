@@ -1,7 +1,7 @@
 {
   "type": "datasource",
-  "name": "grafana-custom-plugin",
-  "id": "Ahmar-DevOps-custom-datasource",
+  "name": "customplugin",
+  "id": "AhmarRG-customplugin-datasource",
   "metrics": true,
   "info": {
     "description": "json plugin for grafana",
