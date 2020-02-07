@@ -1,0 +1,21 @@
+{
+  "type": "datasource",
+  "name": "grafana-custom-plugin",
+  "id": "Ahmar-DevOps-custom-datasource",
+  "metrics": true,
+  "info": {
+    "description": "json plugin for grafana",
+    "author": {
+      "name": "Raintank Inc.",
+      "url": "http://raintank.io"
+    },
+    "keywords": ["json", "metric"],
+    "version": "1.0.0",
+    "updated": "2020-02-07"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "3.x.x",
+    "plugins": [ ]
+  }
+}

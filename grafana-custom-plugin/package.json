@@ -1,0 +1,26 @@
+{
+  "name": "grafana-custom-plugin",
+  "version": "1.0.0",
+  "description": "json custom plugin",
+  "scripts": {
+    "build": "grafana-toolkit plugin:build",
+    "test": "grafana-toolkit plugin:test",
+    "dev": "grafana-toolkit plugin:dev",
+    "watch": "grafana-toolkit plugin:dev --watch"
+  },  
+  "main": "index.js",
+  "repository": "https://github.com/Ahmar-DevOps/grafana-custom-plugin",
+  "author": "Ahmar",
+  "license": "Nil",
+  "private": true,
+  "devDependencies": {
+    "@grafana/toolkit": "^6.6.1",
+    "@grafana/ui": "^6.6.1"
+  },
+  "dependencies": {
+    "grunt": "^1.0.4",
+    "javascript-boilerplate": "^1.2.0",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0"
+  }
+}
